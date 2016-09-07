@@ -15,6 +15,7 @@
         android:theme="@style/Theme.Bacon">
 
         <activity
+            android:theme="@style/Theme.Bacon.Home"
             android:name=".ui.ArticleListActivity"
             android:label="@string/app_name">
             <intent-filter>
